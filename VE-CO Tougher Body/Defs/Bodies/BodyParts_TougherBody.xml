@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<Override.Def Filter="Name" Type="BodyPartDef" Target="Torso">
+    <hitPoints>60</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftShoulder">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightShoulder">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftArm">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightArm">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+
+<Override.Def Type="BodyPartDef" Target="LeftLeg">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightLeg">
+    <hitPoints>40</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftHand">
+    <hitPoints>30</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHand">
+    <hitPoints>30</hitPoints>
+</Override.Def>
+
+
+<Override.Def Type="BodyPartDef" Target="LeftFoot">
+    <hitPoints>30</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFoot">
+    <hitPoints>30</hitPoints>
+</Override.Def>
+
+
+
+<!-- Right Fingers -->
+<Override.Def Type="BodyPartDef" Target="RightHandPinky">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHandRingFinger">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHandMiddleFinger">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHandIndexFingerPinky">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHandThumb">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+
+<!-- Left Fingers -->
+<Override.Def Type="BodyPartDef" Target="LeftHandPinky">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftHandRingFinger">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftHandMiddleFinger">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftHandIndexFingerPinky">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftHandThumb">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+
+<!-- Right Toes -->
+<Override.Def Type="BodyPartDef" Target="RightFootBigToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFootSecondToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFootMiddleToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFootFourthToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFootLittleToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+
+
+<!-- Left Toes -->
+<Override.Def Type="BodyPartDef" Target="LeftFootBigToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftFootSecondToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftFootMiddleToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftFootFourthToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftFootLittleToe">
+    <hitPoints>15</hitPoints>
+</Override.Def>
+
+
+
+
+  <!-- Bones -->
+
+<Override.Def Type="BodyPartDef" Target="LeftClavicle">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightClavicle">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<!--
+  <BodyPartDef>
+    <defName>LeftClavicle</defName>
+    <label>left clavicle</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_clavicle</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>RightClavicle</defName>
+    <label>right clavicle</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_clavicle</li>
+    </activities>
+  </BodyPartDef>
+-->
+
+
+<Override.Def Type="BodyPartDef" Target="Sternum">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<!--
+  <BodyPartDef>
+    <defName>Sternum</defName>
+    <label>sternum</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+  </BodyPartDef>
+-->
+
+
+
+
+<Override.Def Type="BodyPartDef" Target="LeftHumerus">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightHumerus">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<!--
+  <BodyPartDef>
+    <defName>LeftHumerus</defName>
+    <label>left humerus</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_humerus</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>RightHumerus</defName>
+    <label>right humerus</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_humerus</li>
+    </activities>
+  </BodyPartDef>
+-->
+
+
+
+<Override.Def Type="BodyPartDef" Target="LeftRadius">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightRadius">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<!--
+  <BodyPartDef>
+    <defName>LeftRadius</defName>
+    <label>left radius</label>
+    <hitPoints>20</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_radius</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>RightRadius</defName>
+    <label>right radius</label>
+    <hitPoints>20</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Manipulation_radius</li>
+    </activities>
+  </BodyPartDef>
+-->
+
+
+<Override.Def Type="BodyPartDef" Target="Pelvis">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+
+<Override.Def Type="BodyPartDef" Target="LeftFemur">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightFemur">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="LeftTibia">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+
+<Override.Def Type="BodyPartDef" Target="RightTibia">
+    <hitPoints>35</hitPoints>
+</Override.Def>
+<!--
+  <BodyPartDef>
+    <defName>Pelvis</defName>
+    <label>pelvis</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Moving_pelvis</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>LeftFemur</defName>
+    <label>left femur</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Moving_femur</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>RightFemur</defName>
+    <label>right femur</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Moving_femur</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>LeftTibia</defName>
+    <label>left tibia</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Moving_tibia</li>
+    </activities>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>RightTibia</defName>
+    <label>right tibia</label>
+    <hitPoints>25</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <activities>
+      <li>Moving_tibia</li>
+    </activities>
+  </BodyPartDef>
+ 
+-->
+
+
+</Defs>

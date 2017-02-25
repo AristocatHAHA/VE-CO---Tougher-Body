@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>VA-CO Tougher Body</name>
+
+    <author>Aristocat</author>
+
+    <url>https://github.com/AristocatHAHA/Rimworld-VA-CO</url>
+
+    <targetVersion>0.16.1393</targetVersion>
+
+    <description>
+
+- Hit point of most body parts has been increased by 30% to 50% exception to head and organs.
+
+- Torso 40 to 60. Arms and Legs 30 to 40. Hands and feet 20 to 30. Bones(Radius, pelvis, femur and tibia.) 25 to 35.
+
+</description>
+
+</ModMetaData>
